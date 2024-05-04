@@ -1,0 +1,1777 @@
+{
+    "Babel": {
+        "version": "2.14.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "Brotli": {
+        "version": "1.1.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "CairoSVG": {
+        "version": "2.5.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "Cython": {
+        "version": "0.29.36",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "Faker": {
+        "version": "8.13.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "Fiona": {
+        "version": "1.9.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "Flask-CacheBuster": {
+        "version": "1.0.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "Flask-Cors": {
+        "version": "4.0.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "Flask-Login": {
+        "version": "0.6.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "Jinja2": {
+        "version": "3.1.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "MarkupSafe": {
+        "version": "2.1.5",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "Pillow": {
+        "version": "9.2.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "PyJWT": {
+        "version": "2.8.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "PyMuPDF": {
+        "version": "1.21.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "PyNaCl": {
+        "version": "1.5.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "PyPDF2": {
+        "version": "1.28.6",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "PyYAML": {
+        "version": "6.0.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "Send2Trash": {
+        "version": "1.8.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "Shapely": {
+        "version": "1.7.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "SoundFile": {
+        "version": "0.10.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "Wand": {
+        "version": "0.6.13",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "XlsxWriter": {
+        "version": "3.2.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "absl-py": {
+        "version": "2.1.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "ace-tools": {
+        "version": "0.0.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "aeppl": {
+        "version": "0.0.31",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "aesara": {
+        "version": "2.7.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "affine": {
+        "version": "2.4.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "aiohttp": {
+        "version": "3.8.6",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "aiosignal": {
+        "version": "1.3.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "analytics-python": {
+        "version": "1.4.post1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "anyio": {
+        "version": "3.7.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "anytree": {
+        "version": "2.8.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "argon2-cffi": {
+        "version": "23.1.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "argon2-cffi-bindings": {
+        "version": "21.2.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "arviz": {
+        "version": "0.17.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "asn1crypto": {
+        "version": "1.5.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "asttokens": {
+        "version": "2.4.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "async-timeout": {
+        "version": "4.0.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "attrs": {
+        "version": "23.2.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "audioread": {
+        "version": "3.0.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "backoff": {
+        "version": "1.10.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "basemap": {
+        "version": "1.3.9",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "basemap-data": {
+        "version": "1.3.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "bcrypt": {
+        "version": "4.1.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "beautifulsoup4": {
+        "version": "4.12.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "bleach": {
+        "version": "6.1.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "blinker": {
+        "version": "1.7.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "blis": {
+        "version": "0.7.11",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "blosc2": {
+        "version": "2.0.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "bokeh": {
+        "version": "2.4.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "branca": {
+        "version": "0.7.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "cachetools": {
+        "version": "5.3.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "cairocffi": {
+        "version": "1.6.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "camelot-py": {
+        "version": "0.10.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "catalogue": {
+        "version": "2.0.10",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "certifi": {
+        "version": "2024.2.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "cffi": {
+        "version": "1.16.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "chardet": {
+        "version": "3.0.4",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "charset-normalizer": {
+        "version": "2.1.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "click": {
+        "version": "8.1.7",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "click-plugins": {
+        "version": "1.1.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "cligj": {
+        "version": "0.7.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "cloudpickle": {
+        "version": "3.0.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "cmake": {
+        "version": "3.28.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "cmudict": {
+        "version": "1.0.21",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "comm": {
+        "version": "0.2.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "confection": {
+        "version": "0.1.4",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "cons": {
+        "version": "0.4.6",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "contourpy": {
+        "version": "1.2.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "countryinfo": {
+        "version": "0.1.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "cryptography": {
+        "version": "3.4.8",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "cssselect2": {
+        "version": "0.7.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "cycler": {
+        "version": "0.12.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "cymem": {
+        "version": "2.0.8",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "databricks-sql-connector": {
+        "version": "0.9.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "debugpy": {
+        "version": "1.8.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "decorator": {
+        "version": "4.4.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "defusedxml": {
+        "version": "0.7.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "dlib": {
+        "version": "19.24.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "dnspython": {
+        "version": "2.6.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "docx2txt": {
+        "version": "0.8",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "einops": {
+        "version": "0.3.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "email-validator": {
+        "version": "2.1.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "entrypoints": {
+        "version": "0.4",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "et-xmlfile": {
+        "version": "1.1.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "etuples": {
+        "version": "0.3.9",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "exchange-calendars": {
+        "version": "3.4",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "executing": {
+        "version": "2.0.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "fastapi": {
+        "version": "0.95.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "fastjsonschema": {
+        "version": "2.19.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "fastprogress": {
+        "version": "1.0.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "ffmpeg-python": {
+        "version": "0.2.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "ffmpy": {
+        "version": "0.3.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "filelock": {
+        "version": "3.13.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "flask": {
+        "version": "3.0.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "folium": {
+        "version": "0.12.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "fonttools": {
+        "version": "4.49.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "fpdf": {
+        "version": "1.7.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "frozenlist": {
+        "version": "1.4.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "future": {
+        "version": "1.0.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "fuzzywuzzy": {
+        "version": "0.18.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "gTTS": {
+        "version": "2.2.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "gensim": {
+        "version": "4.3.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "geographiclib": {
+        "version": "1.52",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "geopandas": {
+        "version": "0.10.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "geopy": {
+        "version": "2.2.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "gradio": {
+        "version": "2.2.15",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "graphviz": {
+        "version": "0.17",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "h11": {
+        "version": "0.14.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "h2": {
+        "version": "4.1.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "h5netcdf": {
+        "version": "1.3.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "h5py": {
+        "version": "3.8.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "hpack": {
+        "version": "4.0.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "html5lib": {
+        "version": "1.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "httpcore": {
+        "version": "1.0.4",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "httptools": {
+        "version": "0.6.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "httpx": {
+        "version": "0.27.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "hypercorn": {
+        "version": "0.14.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "hyperframe": {
+        "version": "6.0.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "idna": {
+        "version": "3.6",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "imageio": {
+        "version": "2.34.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "imageio-ffmpeg": {
+        "version": "0.4.9",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "imgkit": {
+        "version": "1.2.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "importlib-metadata": {
+        "version": "7.0.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "importlib-resources": {
+        "version": "6.3.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "iniconfig": {
+        "version": "2.0.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "ipykernel": {
+        "version": "6.29.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "ipython": {
+        "version": "8.22.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "ipython-genutils": {
+        "version": "0.2.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "isodate": {
+        "version": "0.6.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "itsdangerous": {
+        "version": "2.1.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "jax": {
+        "version": "0.2.28",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "jedi": {
+        "version": "0.19.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "joblib": {
+        "version": "1.3.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "json5": {
+        "version": "0.9.22",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "jsonpickle": {
+        "version": "3.0.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "jsonschema": {
+        "version": "4.21.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "jsonschema-specifications": {
+        "version": "2023.12.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "jupyter-client": {
+        "version": "7.4.9",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "jupyter-core": {
+        "version": "5.1.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "jupyter-server": {
+        "version": "1.23.5",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "jupyterlab": {
+        "version": "3.4.8",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "jupyterlab-pygments": {
+        "version": "0.2.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "jupyterlab-server": {
+        "version": "2.19.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "keras": {
+        "version": "2.6.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "kerykeion": {
+        "version": "2.1.16",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "kiwisolver": {
+        "version": "1.4.5",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "korean-lunar-calendar": {
+        "version": "0.3.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "langcodes": {
+        "version": "3.3.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "lazy-loader": {
+        "version": "0.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "librosa": {
+        "version": "0.8.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "lit": {
+        "version": "18.1.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "llvmlite": {
+        "version": "0.42.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "logical-unification": {
+        "version": "0.4.6",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "loguru": {
+        "version": "0.5.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "lxml": {
+        "version": "5.1.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "markdown2": {
+        "version": "2.4.13",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "markdownify": {
+        "version": "0.9.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "matplotlib": {
+        "version": "3.6.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "matplotlib-inline": {
+        "version": "0.1.6",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "matplotlib-venn": {
+        "version": "0.11.6",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "miniKanren": {
+        "version": "1.0.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "mistune": {
+        "version": "3.0.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "mizani": {
+        "version": "0.10.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "mne": {
+        "version": "0.23.4",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "monotonic": {
+        "version": "1.6",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "moviepy": {
+        "version": "1.0.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "mpmath": {
+        "version": "1.3.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "msgpack": {
+        "version": "1.0.8",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "mtcnn": {
+        "version": "0.1.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "multidict": {
+        "version": "6.0.5",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "multipledispatch": {
+        "version": "1.0.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "munch": {
+        "version": "4.0.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "murmurhash": {
+        "version": "1.0.10",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "mutagen": {
+        "version": "1.45.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "nashpy": {
+        "version": "0.0.35",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "nbclassic": {
+        "version": "0.4.5",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "nbclient": {
+        "version": "0.10.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "nbconvert": {
+        "version": "7.16.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "nbformat": {
+        "version": "5.10.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "nest-asyncio": {
+        "version": "1.6.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "networkx": {
+        "version": "2.8.8",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "nltk": {
+        "version": "3.6.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "notebook": {
+        "version": "6.5.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "notebook-shim": {
+        "version": "0.2.4",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "numba": {
+        "version": "0.59.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "numexpr": {
+        "version": "2.9.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "numpy": {
+        "version": "1.24.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "numpy-financial": {
+        "version": "1.0.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "nvidia-cublas-cu11": {
+        "version": "11.10.3.66",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "nvidia-cuda-cupti-cu11": {
+        "version": "11.7.101",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "nvidia-cuda-nvrtc-cu11": {
+        "version": "11.7.99",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "nvidia-cuda-runtime-cu11": {
+        "version": "11.7.99",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "nvidia-cudnn-cu11": {
+        "version": "8.5.0.96",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "nvidia-cufft-cu11": {
+        "version": "10.9.0.58",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "nvidia-curand-cu11": {
+        "version": "10.2.10.91",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "nvidia-cusolver-cu11": {
+        "version": "11.4.0.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "nvidia-cusparse-cu11": {
+        "version": "11.7.4.91",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "nvidia-nccl-cu11": {
+        "version": "2.14.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "nvidia-nvtx-cu11": {
+        "version": "11.7.91",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "odfpy": {
+        "version": "1.4.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "opencv-python": {
+        "version": "4.5.5.62",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "openpyxl": {
+        "version": "3.0.10",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "opt-einsum": {
+        "version": "3.3.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "orjson": {
+        "version": "3.9.15",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "oscrypto": {
+        "version": "1.3.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "packaging": {
+        "version": "24.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pandas": {
+        "version": "1.5.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pandocfilters": {
+        "version": "1.5.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "paramiko": {
+        "version": "3.4.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "parso": {
+        "version": "0.8.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pathlib-abc": {
+        "version": "0.1.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pathy": {
+        "version": "0.11.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "patsy": {
+        "version": "0.5.6",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pdf2image": {
+        "version": "1.16.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pdfkit": {
+        "version": "0.6.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pdfminer.six": {
+        "version": "20220319",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pdfplumber": {
+        "version": "0.6.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pdfrw": {
+        "version": "0.4",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pexpect": {
+        "version": "4.9.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pip": {
+        "version": "24.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "platformdirs": {
+        "version": "4.2.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "plotly": {
+        "version": "5.3.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "plotnine": {
+        "version": "0.10.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pluggy": {
+        "version": "1.4.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pooch": {
+        "version": "1.8.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "preshed": {
+        "version": "3.0.9",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "priority": {
+        "version": "2.0.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "proglog": {
+        "version": "0.1.10",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "prometheus-client": {
+        "version": "0.20.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "prompt-toolkit": {
+        "version": "3.0.43",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pronouncing": {
+        "version": "0.2.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "psutil": {
+        "version": "5.9.8",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "ptyprocess": {
+        "version": "0.7.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pure-eval": {
+        "version": "0.2.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "py": {
+        "version": "1.11.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "py-cpuinfo": {
+        "version": "9.0.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pyOpenSSL": {
+        "version": "21.0.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pycountry": {
+        "version": "20.7.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pycparser": {
+        "version": "2.21",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pycryptodome": {
+        "version": "3.20.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pycryptodomex": {
+        "version": "3.20.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pydantic": {
+        "version": "1.10.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pydot": {
+        "version": "1.4.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pydub": {
+        "version": "0.25.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pydyf": {
+        "version": "0.9.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pygments": {
+        "version": "2.17.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pygraphviz": {
+        "version": "1.7",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pylog": {
+        "version": "1.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pyluach": {
+        "version": "2.2.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pymc": {
+        "version": "4.0.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pypandoc": {
+        "version": "1.6.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pyparsing": {
+        "version": "3.1.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pyphen": {
+        "version": "0.14.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pyproj": {
+        "version": "3.6.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pyprover": {
+        "version": "0.5.6",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pyshp": {
+        "version": "2.3.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pyswisseph": {
+        "version": "2.10.3.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pytesseract": {
+        "version": "0.3.8",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pytest": {
+        "version": "6.2.5",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pyth3": {
+        "version": "0.7",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "python-dateutil": {
+        "version": "2.9.0.post0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "python-docx": {
+        "version": "0.8.11",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "python-dotenv": {
+        "version": "1.0.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "python-json-logger": {
+        "version": "2.0.7",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "python-multipart": {
+        "version": "0.0.9",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "python-pptx": {
+        "version": "0.6.21",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pyttsx3": {
+        "version": "2.90",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pytz": {
+        "version": "2024.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pywavelets": {
+        "version": "1.5.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pyxlsb": {
+        "version": "1.0.8",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pyzbar": {
+        "version": "0.1.8",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "pyzmq": {
+        "version": "25.1.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "qrcode": {
+        "version": "7.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "rarfile": {
+        "version": "4.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "rasterio": {
+        "version": "1.3.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "rdflib": {
+        "version": "6.0.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "referencing": {
+        "version": "0.33.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "regex": {
+        "version": "2023.12.25",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "reportlab": {
+        "version": "3.6.12",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "requests": {
+        "version": "2.31.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "resampy": {
+        "version": "0.4.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "rpds-py": {
+        "version": "0.18.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "scikit-image": {
+        "version": "0.20.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "scikit-learn": {
+        "version": "1.1.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "scipy": {
+        "version": "1.9.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "seaborn": {
+        "version": "0.11.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "sentencepiece": {
+        "version": "0.2.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "setuptools": {
+        "version": "65.5.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "shap": {
+        "version": "0.39.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "six": {
+        "version": "1.16.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "slicer": {
+        "version": "0.0.7",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "smart-open": {
+        "version": "6.4.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "sniffio": {
+        "version": "1.3.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "snowflake-connector-python": {
+        "version": "2.7.12",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "snuggs": {
+        "version": "1.4.7",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "soupsieve": {
+        "version": "2.5",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "spacy": {
+        "version": "3.4.4",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "spacy-legacy": {
+        "version": "3.0.12",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "spacy-loggers": {
+        "version": "1.0.5",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "srsly": {
+        "version": "2.4.8",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "stack-data": {
+        "version": "0.6.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "starlette": {
+        "version": "0.27.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "statsmodels": {
+        "version": "0.13.5",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "svglib": {
+        "version": "1.1.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "svgwrite": {
+        "version": "1.4.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "sympy": {
+        "version": "1.8",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "tables": {
+        "version": "3.8.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "tabula": {
+        "version": "1.0.5",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "tabulate": {
+        "version": "0.8.9",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "tenacity": {
+        "version": "8.2.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "terminado": {
+        "version": "0.18.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "text-unidecode": {
+        "version": "1.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "textblob": {
+        "version": "0.15.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "thinc": {
+        "version": "8.1.12",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "threadpoolctl": {
+        "version": "3.3.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "thrift": {
+        "version": "0.16.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "tifffile": {
+        "version": "2024.2.12",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "tinycss2": {
+        "version": "1.2.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "toml": {
+        "version": "0.10.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "tomli": {
+        "version": "2.0.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "toolz": {
+        "version": "0.12.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "torch": {
+        "version": "2.0.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "torchaudio": {
+        "version": "2.0.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "torchtext": {
+        "version": "0.6.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "torchvision": {
+        "version": "0.15.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "tornado": {
+        "version": "6.4",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "tqdm": {
+        "version": "4.64.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "traitlets": {
+        "version": "5.14.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "trimesh": {
+        "version": "3.9.29",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "triton": {
+        "version": "2.0.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "typer": {
+        "version": "0.7.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "typing-extensions": {
+        "version": "4.5.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "ujson": {
+        "version": "5.9.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "urllib3": {
+        "version": "1.26.18",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "uvicorn": {
+        "version": "0.19.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "uvloop": {
+        "version": "0.19.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "wasabi": {
+        "version": "0.10.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "watchfiles": {
+        "version": "0.21.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "wcwidth": {
+        "version": "0.2.13",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "weasyprint": {
+        "version": "53.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "webencodings": {
+        "version": "0.5.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "websocket-client": {
+        "version": "1.7.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "websockets": {
+        "version": "10.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "werkzeug": {
+        "version": "3.0.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "wheel": {
+        "version": "0.43.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "wordcloud": {
+        "version": "1.9.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "wsproto": {
+        "version": "1.2.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "xarray": {
+        "version": "2024.2.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "xarray-einstats": {
+        "version": "0.7.0",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "xgboost": {
+        "version": "1.4.2",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "xml-python": {
+        "version": "0.4.3",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "yarl": {
+        "version": "1.9.4",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "zipp": {
+        "version": "3.18.1",
+        "description": "No description available.",
+        "link": "No link available."
+    },
+    "zopfli": {
+        "version": "0.2.3",
+        "description": "No description available.",
+        "link": "No link available."
+    }
+}
