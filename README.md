@@ -1,6 +1,14 @@
 # chief_of_staff
 A repo focused on use cases and tool development for OpenAI GPT use (API and Chat)
 
+# TODO:
+Projects to tweak
+
+- [ ] marketplace_listing: integrate the openai API in a notebook to get the lsitings by photo
+- [ ] Reciept reader: make a project with imgs, prompt, and example table
+
+
+
 
 # Resources
 
